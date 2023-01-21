@@ -67,6 +67,7 @@ namespace RockPaperScissors
                 Console.WriteLine("This game was a draw, the battle is not over.");
             }
 
+            Console.WriteLine();
         }
     }
 }
